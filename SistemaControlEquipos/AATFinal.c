@@ -1,3 +1,7 @@
+//Pedro Pablo Maza
+
+// Busqueda de equipos agregada
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
