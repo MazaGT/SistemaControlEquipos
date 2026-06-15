@@ -2,6 +2,10 @@
 
 // Busqueda de equipos agregada
 
+// Modificacion de equipos
+
+// Eliminacion de equipos
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
